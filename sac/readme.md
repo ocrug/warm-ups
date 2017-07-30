@@ -10,4 +10,6 @@ basic commands to datasets included with R.
   to demonstrate.
 
 * __sac2-factors__ - Methods for creating new factor variables
-  to fit a *split* criteria are explored.
+  to fit a *split* criteria are explored; introduces `gl`,
+  `interaction`, `split`, and `quantile`.  Uses `InsectSprays`
+  dataset.
